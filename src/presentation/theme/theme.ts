@@ -1,4 +1,4 @@
-import { createTheme } from "@mui/material";
+import { createTheme } from '@mui/material';
 import { background, primary } from './colors';
 
 const theme = createTheme({
@@ -8,8 +8,8 @@ const theme = createTheme({
     },
     background: {
       default: background,
-    }
-  }
+    },
+  },
 });
 
 export default theme;
