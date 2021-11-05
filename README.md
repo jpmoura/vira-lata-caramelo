@@ -15,7 +15,7 @@ de aluguel de imóveis de acordo com 3 parâmetros de busca, sendo eles:
 2. Quantidade de quartos
 3. Área da cidade
 
-<!-- Adicionar GIF aqui -->
+![Overview do app](./app.gif)
 
 A motivação para a criação dessa solução foi facilitar a minha vida em momentos que quero mudar de cidade/imóvel,
 já que a pesquisa pode ser muito cansativa, logo, ter uma aplicação que faça o trabalho de buscar e responder rápido

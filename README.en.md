@@ -15,7 +15,7 @@ real estate websites for real estates available for leasing based on some parame
 2. Bedrooms quantity
 3. City area
 
-<!-- Adicionar GIF aqui -->
+![App overview](./app.gif)
 
 The motto to build this app was to ease the search for new real estate for people whiling to relocate. The search
 process could be exhaustive, specially when you are looking in many different websites and work all day, it could
