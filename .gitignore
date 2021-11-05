@@ -91,3 +91,6 @@ settings/
 
 # Do not remove settings page sources
 !src/presentation/components/pages/settings
+
+# SonarQube Scanner Output folder
+.scannerwork/
