@@ -32,7 +32,7 @@ Essa aplicação foi construída usando tecnologias/ferramentas como [Electron](
 Nesse momento a busca é feita somente para **aluguel** de imóveis e usando o
 [Quinto Andar](https://www.quintoandar.com.br/) como provedor da busca.
 
-⚠ O [Quinto Andar](https://www.quintoandar.com.br/) não patrocina esse projeto ~~infelizmente~~
+⚠ O [Quinto Andar](https://www.quintoandar.com.br/) não patrocina esse projeto ~~infelizmente~~.
 
 # Build 🛠
 
