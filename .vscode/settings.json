@@ -1,0 +1,24 @@
+{
+    "cSpell.words": [
+        "formik",
+        "upsert"
+    ],
+    "typescript.preferences.importModuleSpecifier": "relative",
+    "typescript.referencesCodeLens.enabled": true,
+    "editor.codeActionsOnSave": {
+      "source.fixAll.eslint": true
+    },
+    "eslint.validate": [
+      "javascript",
+      "typescript",
+      "typescriptreact"
+    ],
+    "eslint.alwaysShowStatus": true,
+    "eslint.packageManager": "yarn",
+    "cSpell.language": "en,pt,pt_BR",
+    "files.associations": {
+      "*.env.dev": "env",
+      "*.env.prod": "env",
+      "*.env.prd": "env",
+    }
+}
