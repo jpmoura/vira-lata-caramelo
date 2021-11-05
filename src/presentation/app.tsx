@@ -5,7 +5,7 @@ import '@fontsource/roboto/700.css';
 import * as React from 'react';
 import { CssBaseline, ThemeProvider } from '@mui/material';
 import { render } from 'react-dom';
-import AppRouter from './routes/router';
+import AppRouter from './routes/app-router';
 import theme from './theme/theme';
 
 const App: React.FC = () => {
@@ -15,6 +15,6 @@ const App: React.FC = () => {
       <AppRouter />
     </ThemeProvider>
   );
-}
+};
 
-render(<App />, document.querySelector("#root"));
+render(<App />, document.querySelector('#root'));
